@@ -11,7 +11,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **NEWS AND INFO HUB**
+- 🔭 I’m currently working on **Cricket Analysis Dashboard**
 
 ---
 
