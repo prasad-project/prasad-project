@@ -6,7 +6,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prasad-project&label=Profile%20views&color=0e75b6&style=flat" alt="prasad-project" />
-  <img src="https://img.shields.io/github/followers/prasad-project?label=Followers&style=social" alt="followers" />
 </p>
 
 ---
@@ -163,15 +162,7 @@
 
 ---
 
-## 🏆 GitHub Trophies:
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prasad-project&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophies" />
-</p>
-
----
-
-## 📈 Contribution Graph:
+## 📈 Contribution Activity:
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prasad-project&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
