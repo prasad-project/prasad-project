@@ -15,7 +15,7 @@
 🔭 I'm currently working on **Cricket Analysis Dashboard**  
 🌱 Passionate about **Data Science, Machine Learning & LLM Applications**  
 💬 Ask me about **Python, Data Analytics, AI/ML, LangChain**  
-📫 Reach me at **prasadkumarpalei@example.com**  
+📫 Reach me at **prasadpalei360@gmail.com**  
 ⚡ Fun fact: **I turn data into insights and insights into decisions!**
 
 ---
